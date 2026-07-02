@@ -12,8 +12,8 @@
 
 | System | Link | Status |
 |--------|------|--------|
-| 📊 Interactive Dashboard | *[coming soon]* | In development |
-| 🗄️ SQL Analysis (Google Colab) | *[coming soon]* | In development |
+| 📊 Interactive Dashboard | [Ver Dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiMTQ5NGVkNGEtM2UwOS00NmIxLTgzYzgtYjg4ZWVmZjBhNmY2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) | ✅ Live |
+| 🗄️ SQL Analysis (Google Colab) | [Ver análise ao vivo](https://colab.research.google.com/drive/1nRuFy368r-5GtpfKk92jN5rFcXG0YIPD?usp=sharing) | ✅ Live |
 | ⚙️ Optimisation App (Streamlit) | *[coming soon]* | In development |
 
 ---
